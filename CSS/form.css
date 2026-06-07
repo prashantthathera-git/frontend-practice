@@ -1,0 +1,36 @@
+body {
+    background-color:aliceblue;
+    font-family: Arial, sans-serif;
+}
+h2{
+background-color: lightgray;
+color: darkblue;
+text-align: center;
+font-style: italic;
+border: 2px solid black;
+}
+label{
+    color: darkblue;
+    font-style:italic;
+    font-weight: bold;
+    font-size: 20px;
+}
+.btn{
+    background-color: lightblue;
+    color: darkblue;
+    border: 2px solid black;
+    font-size: 18px;
+    font-weight: bold;
+}
+#reset{
+    font-size: 13px;
+}
+#name,#email,#password,#date,#time{
+    border: 2px solid black;
+    padding: 5px;
+    font-size: 15px;
+    font-weight: bold;
+    color: darkblue;
+    background-color: aliceblue
+}
+/* styling using element element selector , class selector , id selector and grouping selector in form */
