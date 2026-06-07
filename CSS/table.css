@@ -1,0 +1,28 @@
+#heading{
+    background-color: brown;
+    color:white;
+}
+th{
+    border: 2px solid black;
+}
+td{
+    border: 2px solid darkblue;
+}
+#row1{
+    background-color: lightblue;
+    color: blue;
+}
+#row2{
+    background-color: lightgreen;
+    color: green;
+}
+#row3{
+    background-color: lightyellow;
+    color: orange;
+}
+#row4{
+    background-color: lightpink;
+    color: darkred;
+}
+
+/* styling using element selector and id selector in table */
